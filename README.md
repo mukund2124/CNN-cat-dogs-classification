@@ -15,7 +15,7 @@ To run the code on your local machine, follow these steps:
 
 ## Usage
 
-Once the code is executed, the model will be trained on the provided dataset. After training, you can upload any image of an animal to the Colab notebook and use the provided snippet to test the model's classification accuracy.
+Once the code is executed, the model will be trained on the provided dataset. After training, you can upload any image of an animal dogg/cat to the Colab notebook and use the provided snippet (test_img = cv2.imread('/content/doggy.jpeg')) to test the model's classification accuracy.
 
 ## How It Works
 
@@ -46,5 +46,5 @@ Certainly! Here's a concise and professional version of the challenges section:
 - PreGrad: Lectures on AI and Machine Learning concepts.
 - TensorFlow documentation: Resources for understanding CNN architectures and techniques.
 - Kaggle: Provided datasets used for training and testing the model.
-- Gemini from Google.
+- Gemini from Google.                        
 
