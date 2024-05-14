@@ -46,5 +46,5 @@ Certainly! Here's a concise and professional version of the challenges section:
 - PreGrad: Lectures on AI and Machine Learning concepts.
 - TensorFlow documentation: Resources for understanding CNN architectures and techniques.
 - Kaggle: Provided datasets used for training and testing the model.
-- Gemini from Google.                        
+- Gemini from Google and ChatGPT from OpenAI.                        
 
