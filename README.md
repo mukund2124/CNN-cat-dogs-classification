@@ -23,7 +23,7 @@ This project utilizes concepts from Convolutional Neural Networks (CNNs) to clas
 
 ## Testing
 Most of images of dogs or cats were accurately classified by the model.
-![doggy](https://github.com/mukund2124/CNN-cat-dogs-classification/assets/69761205/6a3a9577-17d9-4a46-962d-9a154c2caddd) **width="200" height="200"** was classified as Dog.
+![doggy](https://github.com/mukund2124/CNN-cat-dogs-classification/assets/69761205/6a3a9577-17d9-4a46-962d-9a154c2caddd = 250x250) was classified as Dog.
 ![testcat](https://github.com/mukund2124/CNN-cat-dogs-classification/assets/69761205/a1aeadae-b186-41ba-82b3-7bb6ae64fdae) **width="200" height="200"** The Cat.
 ![testdog](https://github.com/mukund2124/CNN-cat-dogs-classification/assets/69761205/377d344b-9389-4b3e-8003-c8965e6f09ee) **width="200" height="200"** The Dog.
 
