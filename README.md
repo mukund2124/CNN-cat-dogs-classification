@@ -24,15 +24,15 @@ This project utilizes concepts from Convolutional Neural Networks (CNNs) to clas
 ## Testing
 Most of images of dogs or cats were accurately classified by the model.
 
-<img src="https://github.com/mukund2124/CNN-cat-dogs-classification/assets/69761205/6a3a9577-17d9-4a46-962d-9a154c2caddd.jpg" width="300" height="300"> <br />This was classified as Dog.<br />
-<img src="https://github.com/mukund2124/CNN-cat-dogs-classification/assets/69761205/a1aeadae-b186-41ba-82b3-7bb6ae64fdae.jpg" width="300" height="300"> <br />The Cat.<br />
-<img src="https://github.com/mukund2124/CNN-cat-dogs-classification/assets/69761205/377d344b-9389-4b3e-8003-c8965e6f09ee.jpg" width="300" height="300"> <br />The Dog.<br />
+<img src="https://github.com/mukund2124/CNN-cat-dogs-classification/assets/69761205/6a3a9577-17d9-4a46-962d-9a154c2caddd.jpg" width="300" height="300"> <br />This was classified as Dog.<br /><br />
+<img src="https://github.com/mukund2124/CNN-cat-dogs-classification/assets/69761205/a1aeadae-b186-41ba-82b3-7bb6ae64fdae.jpg" width="300" height="300"> <br />The Cat.<br /><br />
+<img src="https://github.com/mukund2124/CNN-cat-dogs-classification/assets/69761205/377d344b-9389-4b3e-8003-c8965e6f09ee.jpg" width="300" height="300"> <br />The Dog.<br /><br />
 
-but it can make errors as in these cases:
-<img src="https://github.com/mukund2124/CNN-cat-dogs-classification/assets/69761205/4e56dd55-f5d0-4f17-b5d5-36d5674afb46.jpg" width="300" height="300"> <br />The Cat.
-<br />
+but it can make errors as in these cases:<br />
 <img src="https://github.com/mukund2124/CNN-cat-dogs-classification/assets/69761205/35c7b293-ea72-4e99-8c6b-50a222715dd5.jpg" width="300" height="300"> <br />The Cat.
-<br />
+<br /><br />
+<img src="https://github.com/mukund2124/CNN-cat-dogs-classification/assets/69761205/4e56dd55-f5d0-4f17-b5d5-36d5674afb46.jpg" width="300" height="300"> <br />The Cat.
+<br /><br />
 ## Some Report metrics from new data
 Test Loss: 0.0330, Test Accuracy: 0.9926
 mAP (mean Average Precision): 0.5002
